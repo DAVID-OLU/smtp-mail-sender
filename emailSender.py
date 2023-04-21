@@ -1,7 +1,7 @@
 # For the program to work, you need to : 
 # go over to your gmail account and setup 2 factor authentication.
 # generate app password. Then after that, store that generated password in an environment variable in your 
-# control panel(for security purpose. You dont want people to see your password.) and then use the variable here in your program code.
+# control panel, and then use the variable here in your program code.
 
 
 from email.message import EmailMessage
